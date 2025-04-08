@@ -8,4 +8,6 @@ My (Tyler Bergsma) neovim config, using LazyVim and TONS of plugins.
 To install my custom neovim config you need different packages depending on your os and distro.
 
 ### -Windows:
-Download the ZipLang Dependancy [Here]https://ziglang.org/download/
+1. Download the ZipLang Dependancy [Here](https://ziglang.org/download/)
+2. Install GH (GitHub) by running ```winget install Github.cli```
+
